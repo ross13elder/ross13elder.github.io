@@ -1,1 +1,10 @@
-# ross13elder.github.io
+# Data Scientist / Business Analyst
+
+### Education
+
+
+### Projects
+
+
+
+###
