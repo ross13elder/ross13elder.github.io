@@ -22,7 +22,8 @@
 Analyzing companies in the New York Stock Exchange and assigning them into groups based on certain attributes and sharing insights about the characteristics of each group, so the investors can make informed decisions on where to invest. 
 - *Skills*: K-means Clustering, Hierarchical Clustering, PCA
 - December 2023
-[Trade&Ahead](https://github.com/ross13elder/ross13elder.github.io/blob/main/Trade%26Ahead_Notebook.ipynb)
+[![Screenshot 2023-12-11 at 4 14 18 PM](https://github.com/ross13elder/ross13elder.github.io/assets/153217583/bec7c1a0-54ec-447c-84bf-3fc7dcd89b1d)](https://github.com/ross13elder/ross13elder.github.io/blob/main/Trade%26Ahead_Notebook.ipynb)
+
 
 #### **Model Tuning - Proactive Maintenance for Generators on Wind Turbines**
 "ReneWind" is a company working on improving the machinery/processes involved in wind energy production using machine learning and has collected data on generator failure of wind turbines using sensors. The objective is to build various classification models, tune them, and find the best one to help identify failures so that the generator can be repaired before failing/breaking and the overall maintenance cost of the generators can be brought down.
