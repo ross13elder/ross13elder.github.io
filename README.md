@@ -1,22 +1,20 @@
 # Data Scientist / Business Analyst
 
 
-### Education
+## Education
 - **P.G.P. Data Science & Business Analytics** | The University of Texas at Austin's McCombs School of Business (_December 2023_)
 - **B.S. Mathematics Education** | The University of Texas at Dallas (_2004_)
 
------
 
-### Skills
+## Skills
 - **Languages** | Python
 - **Data Bases** | Excell, Access, SQL
 - **Statistics & Data Visualization** | Seaborn, Matplotlib, Descriptive and Predictive Analytics, Hypothesis Testing, Confidence Intervals, ANOVA, PCA
 - **Machine Learning** | Classification and Regression Algorithms, Exploratory Data Analysis, Clustering Techniques, Ensemble Techniques, Hyperparameter Tuning, Cross Validation, Supervised and Unsupervised Learning, Decision Trees Data Processing, SciKit-Learn, NumPy, SciPy, Pandas
 - **Additional Software/Tools** | Google Colab, Jupyter Notebook, Google Suite, Window Suite, Audacity, RX, Davinci Resolve, Asana, Slack
 
------
 
-### Projects
+## Projects
   
 #### **Unsupervised Learning - Cluster Profiling of Stocks**
 Analyzing companies in the New York Stock Exchange and assigning them into groups based on certain attributes and sharing insights about the characteristics of each group, so the investors can make informed decisions on where to invest.  
@@ -134,8 +132,8 @@ The food aggregator company has stored the data of the different orders made by 
 </picture>
 </p>
 
-____
-### Professional Experience
+
+## Professional Experience
 
 #### Video, Audio, & Blog Creator/Editor  _(2022 - Present)_
 - Create video and edit audio to drive traffic and bring light to the clients' businesses
@@ -153,9 +151,8 @@ ____
 - Successfully instructed large virtual classes from multiple schools, maintaining **group collaboration** and **adapting** teaching methods to ensure effective learning in a **virtual environment**.
 - Fostered individual and team success through **coaching** methodologies, cultivating a **collaborative and goal-driven environment** that resulted in measurable performance improvements and achievement of key objectives.
 
-_____
 
-### Certifications
+## Certifications
 - AI on Cloud
 - Texas Teacher's Certification 8-12 (GT & AP)
 - Category Two Math Studies International Baccalaureate
