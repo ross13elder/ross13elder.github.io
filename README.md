@@ -19,10 +19,23 @@
 ### Projects
   
 #### **Unsupervised Learning - Cluster Profiling of Stocks**
-Analyzing companies in the New York Stock Exchange and assigning them into groups based on certain attributes and sharing insights about the characteristics of each group, so the investors can make informed decisions on where to invest. 
+Analyzing companies in the New York Stock Exchange and assigning them into groups based on certain attributes and sharing insights about the characteristics of each group, so the investors can make informed decisions on where to invest.  
 - *Skills*: K-means Clustering, Hierarchical Clustering, PCA
 - December 2023
-[![Screenshot 2023-12-11 at 4 14 18 PM](https://github.com/ross13elder/ross13elder.github.io/assets/153217583/bec7c1a0-54ec-447c-84bf-3fc7dcd89b1d)](https://github.com/ross13elder/ross13elder.github.io/blob/main/Trade%26Ahead_Notebook.ipynb)
+
+<div align="center">
+
+  [Python Code for Project](https://github.com/ross13elder/ross13elder.github.io/blob/main/Trade%26Ahead_Notebook.ipynb)
+ 
+</div>
+<p align="center"> 
+<picture>
+  <img src="https://github.com/ross13elder/ross13elder.github.io/assets/153217583/d091a4fd-2b15-487b-99bb-6bba1be8f999" width="300" height="">
+</picture>
+</p>
+
+
+
 
 
 #### **Model Tuning - Proactive Maintenance for Generators on Wind Turbines**
@@ -30,28 +43,95 @@ Analyzing companies in the New York Stock Exchange and assigning them into group
 - *Skills*: Up and Downsampling, Regularization, Hyperparameter Tuning, Pipelines, Ensemble Techniques, Bagging, Random Forest, AdaBoost, Gradient Boosting, XGBoost
 - November 2023
 
+<div align="center">
+
+  [Python Code for Project](https://github.com/ross13elder/ross13elder.github.io/blob/main/ReneWind_Notebook.ipynb)
+</div>
+<p align="center"> 
+<picture>
+  <img src="https://github.com/ross13elder/ross13elder.github.io/assets/153217583/0f251a76-6430-4489-88ea-382a11e37a7b" width="300" height="">
+</picture>
+</p>
+
+
 #### **Ensemble Techniques - Expediting the Decision Process of Applicants**
 Analyze the data of Visa applicants, build a predictive model to facilitate the process of visa approvals, and based on important factors that significantly influence the Visa status recommend a suitable profile for the applicants for whom the visa should be certified or denied.
 - *Skills*: EDA, Data Processing, Customer Profiling, Bagging, Random Forest, Gradient Boosting, AdaBoost, XGBoost, Stacking Classifier, Hyperparameter Tuning using GridSearchCV
 - Oct 2023
+
+<div align="center">
+
+  [Python Code for Project](https://github.com/ross13elder/ross13elder.github.io/blob/main/Easy_VISA_Notebook.ipynb)
+</div>
+<p align="center"> 
+<picture>
+  <img src="https://github.com/ross13elder/ross13elder.github.io/assets/153217583/9d923777-e40b-4b8e-b905-52cc172d4bf6" width="300" height="">
+</picture>
+</p>
+
 
 #### **Supervised Learning - Building Predictive Model and Identify Key Factors**
 Analyze the data of INN Hotels to find which factors have a high influence on booking cancellations, build a predictive model that can predict which bookings will be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
 - *Skills*: Data Preprocessing, Logistic Regression, Multicollinearity, AUC-ROC Curve, Decision Tree, Pruning
 - Sep 2023
 
+<div align="center">
+
+  [Python Code for Project](https://github.com/ross13elder/ross13elder.github.io/blob/main/INNHotels_Notebook.ipynb)
+</div>
+<p align="center"> 
+<picture>
+  <img src="https://github.com/ross13elder/ross13elder.github.io/assets/153217583/4c70dddc-d876-4838-910e-2b9b8f425f4b" width="300" height="">
+</picture>
+</p>
+
+
 #### **Linear Regression - Dynamic Pricing Strategy for Retail**
 Analyze the used devices dataset, build a model that will help develop a dynamic pricing strategy for used and refurbished devices, and identify factors that significantly influence the price.
-- *Skills*: Linear Regression, Multicollinearity, Linear Regression Assumptions, Business Insights and Recommendations, EDA
+- *Skills*: Linear Regression, Linear Regression Assumptions, Business Insights and Recommendations, EDA
 - August 2023
+
+<div align="center">
+
+  [Python Code for Project](https://github.com/ross13elder/ross13elder.github.io/blob/main/ReCell_Notebook.ipynb)
+</div>
+<p align="center"> 
+<picture>
+  <img src="https://github.com/ross13elder/ross13elder.github.io/assets/153217583/ae9b3fa7-299d-4565-8813-bfb76c13b6ea" width="300" height="">
+</picture>
+</p>
+
 
 #### **Business Statistics - A/B Testing for Website Modification**
 This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analyzed in this project.
 - *Skills*: Hypothesis Testing, A/B Testing, Data Visualization, Statistical Inference
 - July 2023
-  
+
+<div align="center">
+
+  [Python Code for Project](https://github.com/ross13elder/ross13elder.github.io/blob/main/ENews_Express_Notebook.ipynb)
+</div>
+<p align="center"> 
+<picture>
+  <img src="https://github.com/ross13elder/ross13elder.github.io/assets/153217583/4c11ae47-6b4e-4e12-88bb-159f8d197559" width="300" height="">
+</picture>
+</p>
+
+
+
 #### **FoodHub Order Analysis Using Python**
-The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business.
+The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company improve its business.
 - *Skills*: Exploratory Data Analysis, Univariate Analysis, Bi-Variate Analysis, Python
 - June 2023
+
+<div align="center">
+
+  [Python Code for Project](https://github.com/ross13elder/ross13elder.github.io/blob/main/FoodHub_Notebook.ipynb)
+</div>
+<p align="center"> 
+<picture>
+  <img src="https://github.com/ross13elder/ross13elder.github.io/assets/153217583/06f3eb1a-71b6-4847-aa06-5b46359cd27b" width="300" height="">
+</picture>
+</p>
+
 
