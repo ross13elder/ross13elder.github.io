@@ -134,4 +134,30 @@ The food aggregator company has stored the data of the different orders made by 
 </picture>
 </p>
 
+____
+### Professional Experience
 
+#### Video, Audio, & Blog Creator/Editor  _(2022 - Present)_
+- Create video and edit audio to drive traffic and bring light to the clients' businesses
+- Write blogs with Search Engine Optimization (SEO) to expand market reach and networking for the client
+- Kept financial records,  along with processing and invoicing payments
+
+#### Statistics / Mathematics Educator and Coach  _(2005 - 2022)_
+- **Analyzed data** to guide instructional learning through professional learning communities to raise standards 
+- **Instructed and motivated** Statistics students to the highest passing rates on the Advanced Placement (AP) Exam (greater than 90% passing rate yearly) 
+- Utilized technology platforms like Canvas and Mastery Connect to drive understanding of the material.
+- Created a **team atmosphere** as team lead to better address the needs of our students and reach team goals
+- Enhanced student engagement by delivering compelling and interactive **presentations**, ensuring clear and impactful delivery of complex information to a variety of levels.
+- Effectively fostered engagement and success by utilizing **clear communication and interpersonal skills** with all stakeholders. 
+- Created and implemented real-life scenario projects, fostering **critical thinking and problem-solving skills** among students in an international education setting.
+- Successfully instructed large virtual classes from multiple schools, maintaining **group collaboration** and **adapting** teaching methods to ensure effective learning in a **virtual environment**.
+- Fostered individual and team success through **coaching** methodologies, cultivating a **collaborative and goal-driven environment** that resulted in measurable performance improvements and achievement of key objectives.
+
+_____
+
+### Certifications
+- AI on Cloud
+- Texas Teacher's Certification 8-12 (GT & AP)
+- Category Two Math Studies International Baccalaureate
+- CPR/First Aid/AED Certified
+- National D Coaching License
