@@ -23,7 +23,7 @@ Analyzing companies in the New York Stock Exchange and assigning them into group
 
 <div align="center">
 
-  [Python Code for Project](https://github.com/ross13elder/ross13elder.github.io/blob/main/Trade%26Ahead_Notebook.ipynb)
+ 
   <a href=https://github.com/ross13elder/ross13elder.github.io/blob/main/Trade%26Ahead_Notebook.ipynb>Python Code for Project</a>
 </div>
 <p align="center"> 
@@ -31,7 +31,7 @@ Analyzing companies in the New York Stock Exchange and assigning them into group
   <img src="https://github.com/ross13elder/ross13elder.github.io/assets/153217583/d091a4fd-2b15-487b-99bb-6bba1be8f999" width="300" height="">
 </picture>
 </p>
-
+ [Python Code for Project](https://github.com/ross13elder/ross13elder.github.io/blob/main/Trade%26Ahead_Notebook.ipynb)
 
 
 
