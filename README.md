@@ -1,5 +1,9 @@
 # Data Scientist / Business Analyst
 
+<h2>Education</h2>
+<ul>
+  <li><b>P.G.P. Data Science & Business Analytics</b> | The University of Texas at Austin's McCombs School of Business</li>
+</ul>
 
 ## Education
 - **P.G.P. Data Science & Business Analytics** | The University of Texas at Austin's McCombs School of Business (_December 2023_)
