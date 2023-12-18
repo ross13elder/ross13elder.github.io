@@ -1,8 +1,8 @@
 title: "Ross Elder"
 logo: https://github.com/ross13elder/ross13elder.github.io/blob/main/images/Untitled%20design%20(48).png
 description: "Statistics & Mathematics Educator with +17 years of experience - Looking to transition into a career in Data Analytics / Data Science"
-show_downloads: true
-google_analytics: false
+#show_downloads: true
+#google_analytics: false
 link: "https://www.linkedin.com/in/ross-elder/"
-#location: "Plano, TX"
+location: "Plano, TX"
 theme: "jekyll-theme-minimal"
