@@ -2,8 +2,8 @@
 
 <h2>Education</h2>
 <ul>
-  <li><b>P.G.P. Data Science & Business Analytics</b> | The University of Texas at Austin's McCombs School of Business<i>(Dec 2023)</i></li>
-  <li><b>B.S. Mathematics Education</b> | The University of Texas at Dallas<i>(2004)</i></li>
+  <li><b>P.G.P. Data Science & Business Analytics</b> | The University of Texas at Austin's McCombs School of Business<i> (Dec 2023)</i></li>
+  <li><b>B.S. Mathematics Education</b> | The University of Texas at Dallas<i> (2004)</i></li>
 </ul>
 
 <h2>Skills</h2>
