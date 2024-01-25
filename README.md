@@ -6,6 +6,7 @@
   <li><b>B.S. Mathematics Education</b> | The University of Texas at Dallas<i> (2004)</i></li>
 </ul>
 
+
 <h2>Skills</h2>
 <ul>
   <li><b>Languages</b> | Python</li>
@@ -13,8 +14,10 @@
   <li><b>Statistics & Data Visualization</b> | Seaborn, Matplotlib, Descriptive and Predictive Analytics, Hypothesis Testing, Confidence Intervals, ANOVA, PCA</li>
   <li><b>Machine Learning</b> | Classification and Regression Algorithms, Exploratory Data Analysis, Clustering Techniques, Ensemble Techniques, Hyperparameter Tuning, Cross Validation, Supervised and Unsupervised Learning, Decision Trees Data Processing, SciKit-Learn, NumPy, SciPy, Pandas</li>
   <li><b>Additional Software/Tools</b> | Google Colab, Jupyter Notebook, Google Suite, Window Suite, Audacity, RX, Davinci Resolve, Asana, Slack</li>
+</ul>
 
 <h2>Projects</h2>
+
 <h3>Unsupervised Learning - Cluster Profiling of Stocks</h3>
 Conducted analysis of New York Stock Exchange-listed companies, categorizing them based on specific attributes, and communicated detailed insights on each group. Empowering investors to make informed decisions by providing valuable information for strategic investment choices.
 <ul>
